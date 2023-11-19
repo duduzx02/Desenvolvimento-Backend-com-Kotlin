@@ -1,0 +1,6 @@
+- Kotlin
+- - Consisa
+- - Segura
+- - Expressiva
+- - Interoperável
+- - multiplataforma
