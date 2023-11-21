@@ -1,8 +1,8 @@
 fun main() {
-    var cakesEaten = 0
+    var i = 0
 
-    while(cakesEaten < 5){
+    while(i < 5){
         println("Eat a cake")
-        cakesEaten++
+        i++
     }
 }
