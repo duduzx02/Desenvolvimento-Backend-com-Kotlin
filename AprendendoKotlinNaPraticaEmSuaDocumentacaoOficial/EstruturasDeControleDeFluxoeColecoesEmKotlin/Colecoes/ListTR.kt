@@ -12,6 +12,7 @@ val terceiroNome = listaDeNomes.getOrNull(3) //Evita exceção se o índice esti
 fun main() {
     println(primeiroNome)
     println(segundoNome)
+    println(terceiroNome)
 
     // Iterando usando forEach
 
