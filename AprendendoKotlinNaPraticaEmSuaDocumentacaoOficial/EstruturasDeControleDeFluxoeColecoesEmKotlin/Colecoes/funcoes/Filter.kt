@@ -1,4 +1,4 @@
-package Colecoes
+package Colecoes.funcoes
 
 fun main() {
     val number = listOf(1, -5, -8 , -8, 5, 65)

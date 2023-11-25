@@ -1,4 +1,4 @@
-package Colecoes
+package Colecoes.funcoes
 
 val number = listOf(1, -2, 8, -8, -7, 8, 6 )
 val double = number.map { it * 2 }
