@@ -7,8 +7,14 @@ open class Animal(val nome: String){
     }
 }
 
-// Classe derivada (subaclasse
+// Classe derivada (subaclasse) com construtor parametrizado
 class Cachorro(nome: String, val raca: String) : Animal(nome){
+    // Novo construtor de classe derivada
+
+    constructor(nome: String, raca: String, idade: Int): this(nome, raca){
+        println("$nome é um charro da raça $raca e tem $idade anos.")
+    }
+
     fun latir(){
         println("$nome está latindo.")
     }
@@ -16,7 +22,7 @@ class Cachorro(nome: String, val raca: String) : Animal(nome){
 
 fun main() {
     // Criando uma instância da classe derivada
-    val meuCachorro = Cachorro("Buddy", "labrador")
+    val meuCachorro = Cachorro("Buddy", "labrador", 3)
 
     // Chamando métodos da classe base
     meuCachorro.comer()
