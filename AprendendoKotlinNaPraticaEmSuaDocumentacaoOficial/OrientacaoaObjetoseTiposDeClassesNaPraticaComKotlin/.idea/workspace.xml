@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3f8b9b4-3c26-41b3-8cd9-a556ea65fba7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/POONaPratica/HerancaSimples.kt" beforeDir="false" afterPath="$PROJECT_DIR$/POONaPratica/HerancaSimples.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POONaPratica/HerancaComConstrutorParametrizado.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,14 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Eduardo Lima/OneDrive/Área de Trabalho/pastas/Kotlin/DIO/DesenvolvimentoBackendComKotlin/AprendendoKotlinNaPraticaEmSuaDocumentacaoOficial/OrientacaoaObjetoseTiposDeClassesNaPraticaComKotlin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.HerancaSimplesKt">
+  <component name="RunManager" selected="Kotlin.HerancaComConstrutorParametrizadoKt">
+    <configuration name="HerancaComConstrutorParametrizadoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POONaPratica.HerancaComConstrutorParametrizadoKt" />
+      <module name="OrientacaoaObjetoseTiposDeClassesNaPraticaComKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HerancaComSobreEscritaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="POONaPratica.HerancaComSobreEscritaKt" />
       <module name="OrientacaoaObjetoseTiposDeClassesNaPraticaComKotlin" />
@@ -79,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.HerancaComConstrutorParametrizadoKt" />
         <item itemvalue="Kotlin.HerancaSimplesKt" />
         <item itemvalue="Kotlin.HerancaComSobreEscritaKt" />
       </list>
