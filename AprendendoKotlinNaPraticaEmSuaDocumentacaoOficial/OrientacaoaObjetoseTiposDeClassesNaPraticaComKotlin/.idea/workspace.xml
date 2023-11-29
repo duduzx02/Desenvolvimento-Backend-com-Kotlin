@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3f8b9b4-3c26-41b3-8cd9-a556ea65fba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POONaPratica/DiaDaSemana.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POONaPratica/DiaDaSemanafile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POONaPratica/SealedClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Eduardo Lima/OneDrive/Área de Trabalho/pastas/Kotlin/DIO/DesenvolvimentoBackendComKotlin/AprendendoKotlinNaPraticaEmSuaDocumentacaoOficial/OrientacaoaObjetoseTiposDeClassesNaPraticaComKotlin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DiaDaSemanafileKt">
+  <component name="RunManager" selected="Kotlin.SealedClassKt">
     <configuration name="ConstrutorSuperclasseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="POONaPratica.ConstrutorSuperclasseKt" />
       <module name="OrientacaoaObjetoseTiposDeClassesNaPraticaComKotlin" />
@@ -93,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HerancaComConstrutorParametrizadoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POONaPratica.HerancaComConstrutorParametrizadoKt" />
+    <configuration name="SealedClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POONaPratica.SealedClassKt" />
       <module name="OrientacaoaObjetoseTiposDeClassesNaPraticaComKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SealedClassKt" />
         <item itemvalue="Kotlin.DiaDaSemanafileKt" />
         <item itemvalue="Kotlin.DataClassKt" />
         <item itemvalue="Kotlin.DataClassesKt" />
         <item itemvalue="Kotlin.ConstrutorSuperclasseKt" />
-        <item itemvalue="Kotlin.HerancaComConstrutorParametrizadoKt" />
       </list>
     </recent_temporary>
   </component>
