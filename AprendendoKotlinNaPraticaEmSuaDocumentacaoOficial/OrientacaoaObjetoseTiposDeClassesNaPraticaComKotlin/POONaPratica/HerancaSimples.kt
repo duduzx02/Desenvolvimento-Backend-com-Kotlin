@@ -2,6 +2,9 @@ package POONaPratica
 
 // Classe base (superclasse)
 open class Animal(val nome: String){
+    init{
+        println("$nome é um animal.")
+    }
     fun comer(){
         println("$nome está comendo.")
     }
@@ -10,6 +13,10 @@ open class Animal(val nome: String){
 // Classe derivada (subaclasse) com construtor parametrizado
 class Cachorro(nome: String, val raca: String) : Animal(nome){
     // Novo construtor de classe derivada
+
+    init {
+        println("$nome é um cachorro da raça $raca.")
+    }
 
     constructor(nome: String, raca: String, idade: Int): this(nome, raca){
         println("$nome é um charro da raça $raca e tem $idade anos.")
